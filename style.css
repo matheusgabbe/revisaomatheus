@@ -30,13 +30,13 @@ ul{
 }
 
 p{
-    font-size: 35px;
-}
-
-ul{
     font-size: 25px;
 }
 
+ul{
+    font-size: 35px;
+}
+
 li{
-    font-size: 20px;
+    font-size: 25px;
 }
